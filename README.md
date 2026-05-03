@@ -1,2 +1,2 @@
 # pronei-v1
-dalam pengembangan
+ai chat bot yang sangat interaktif
