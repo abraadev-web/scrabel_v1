@@ -27,5 +27,5 @@ void loop()
     digitalWrite(buzzer, LOW);
   }
   
-  delay(100); // Small delay to stabilize sensor readings
+  delay(100);
 }
