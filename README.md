@@ -1,2 +1,2 @@
-# pronei-v1
-ai chat bot yang sangat interaktif
+# scrable
+code untuk sebuah alat yang membantu menjemurkan baju saat mau hujan/gerimis
